@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: springboot-cicd
-          image: kiranwaredockerpoc/springboot-cicd:23
+          image: kiranwaredockerpoc/springboot-cicd:24
           ports:
             - containerPort: 8080
